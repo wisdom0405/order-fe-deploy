@@ -37,7 +37,7 @@ jobs:
           aws-region: "ap-northeast-2"
       
       - name: clear s3 bucket
-        run: aws s3 rm s3://www.kimseonguk197.shop/ --recursive
+        run: aws s3 rm s3://www.wisdom0405.shop/ --recursive
 
 
 
