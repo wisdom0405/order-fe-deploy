@@ -12,7 +12,7 @@
                 </v-col>
                 <v-col class="text-center">
                     <!-- 가운데 정렬 -->
-                    <v-btn :to="{path:'/'}">wisdom shop3333</v-btn>
+                    <v-btn :to="{path:'/'}">wisdom shop4444</v-btn>
                 </v-col>
                 <v-col class="d-flex justify-end">
                     <!-- 오른쪽 정렬 -->
